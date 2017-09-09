@@ -1,3 +1,3 @@
 # Robotika Szakkör
 
-## Az Esztergomi Szent Erzsébet Középiskola robotika szakkörének Git oldala
+## Az Esztergomi Szent Erzsébet Középiskola robotika szakkörének GitHub oldala
