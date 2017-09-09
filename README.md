@@ -1,2 +1,3 @@
-# library
-Library for literature, ideas.
+# Robotika Szakkör
+
+## Az Esztergomi Szent Erzsébet Középiskola robotika szakkörének Git oldala
