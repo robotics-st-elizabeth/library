@@ -2,4 +2,4 @@
 
 ## A Szent Erzsébet Középiskola informatikus osztályának robotika szakköre
 
-[Bemutatkozó Wiki oldal](https://github.com/robotics-st-elizabeth/library/wiki "Bemutatkozás: Légrádi Gábor")
+[Bemutatkozó Wiki oldal és koncepcióterv](https://github.com/robotics-st-elizabeth/library/wiki "Bemutatkozás és koncepcióterv")
