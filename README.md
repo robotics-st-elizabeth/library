@@ -1,3 +1,3 @@
 # Robotika Szakkör
 
-## Az Esztergomi Szent Erzsébet Középiskola info osztályának robotika szakköre
+## A Szent Erzsébet Középiskola informatikus osztályának robotika szakköre
